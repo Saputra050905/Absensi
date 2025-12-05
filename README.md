@@ -141,9 +141,7 @@ phpMyAdmin
 a. Instalasi (Developer Mode)
 
 Clone repository:
-
-https://saputra050905.github.io/Absensi/
-
+https://github.com/Saputra050905/Absensi.git
 
 Masuk ke folder project:
 cd absensi-guru
